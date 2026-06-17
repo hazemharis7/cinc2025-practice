@@ -1,0 +1,23 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Environments
+.venv/
+env/
+
+# Large datasets
+data/
+datasets/
+*.dat
+
+# Model/output files
+models/
+outputs/
+*.pkl
+*.joblib
+*.sav
