@@ -1,0 +1,33 @@
+dataset,record,error
+SaMi-Trop,117986,integer division or modulo by zero
+SaMi-Trop,138704,integer division or modulo by zero
+SaMi-Trop,214293,cannot convert float NaN to integer
+SaMi-Trop,22783,integer division or modulo by zero
+SaMi-Trop,254020,integer division or modulo by zero
+SaMi-Trop,267374,cannot convert float NaN to integer
+SaMi-Trop,278676,integer division or modulo by zero
+SaMi-Trop,282921,cannot convert float NaN to integer
+SaMi-Trop,289486,cannot convert float NaN to integer
+SaMi-Trop,300609,integer division or modulo by zero
+SaMi-Trop,326971,cannot convert float NaN to integer
+SaMi-Trop,327021,cannot convert float NaN to integer
+SaMi-Trop,337876,cannot convert float NaN to integer
+SaMi-Trop,340299,cannot convert float NaN to integer
+SaMi-Trop,346645,cannot convert float NaN to integer
+SaMi-Trop,347028,cannot convert float NaN to integer
+SaMi-Trop,350166,cannot convert float NaN to integer
+SaMi-Trop,355698,The data length is too small to be segmented.
+SaMi-Trop,364889,The data length is too small to be segmented.
+SaMi-Trop,372389,The data length is too small to be segmented.
+SaMi-Trop,443647,cannot convert float NaN to integer
+SaMi-Trop,452767,integer division or modulo by zero
+SaMi-Trop,465998,The data length is too small to be segmented.
+SaMi-Trop,527726,cannot convert float NaN to integer
+SaMi-Trop,527774,cannot convert float NaN to integer
+SaMi-Trop,528233,integer division or modulo by zero
+SaMi-Trop,551818,cannot convert float NaN to integer
+SaMi-Trop,576888,integer division or modulo by zero
+SaMi-Trop,587040,integer division or modulo by zero
+SaMi-Trop,830648,integer division or modulo by zero
+SaMi-Trop,830690,cannot convert float NaN to integer
+PTB-XL,17407_lr,cannot convert float NaN to integer
